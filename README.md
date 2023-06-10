@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Cart Project with Firebase database CRUD Operations
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
